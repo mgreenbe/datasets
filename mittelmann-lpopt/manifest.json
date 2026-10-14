@@ -1,0 +1,1218 @@
+{
+  "dataset": "Mittelmann LP test set, Plato-hosted source files",
+  "benchmark": "https://plato.asu.edu/ftp/lpopt.html",
+  "source_index": "https://plato.asu.edu/ftp/lptestset/",
+  "license": "No explicit dataset license stated in the source index/README",
+  "files": [
+    {
+      "path": "plato/00README",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/00README",
+      "bytes": 3340,
+      "sha256": "b0b062ebcd30b993238b46d32e8c09b8186e93206e474be2f571950f160bc33c",
+      "format": "bzip2-compressed MPS or MPC; see 00README"
+    },
+    {
+      "path": "plato/Dual2_5000.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/Dual2_5000.mps.bz2",
+      "bytes": 385603851,
+      "sha256": "b432507c8ded0119c3a8e7fa3fb0fe2fdfffeb266e2e8afe537fda76912fba1d",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 30000601,
+      "columns": 33050602,
+      "nonzeros": 93051802
+    },
+    {
+      "path": "plato/L1_sixm1000obs.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/L1_sixm1000obs.bz2",
+      "bytes": 41799989,
+      "sha256": "4275c7c9a3a7c4cacf912abecd008df3ce5a94791371e111b6b9998e1bccb07b",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 3082941,
+      "columns": 1426256,
+      "nonzeros": 15688816
+    },
+    {
+      "path": "plato/L1_sixm250obs.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/L1_sixm250obs.bz2",
+      "bytes": 12416262,
+      "sha256": "a473fdb2334cb29db9ca7f4955b1194419549b485a7df1e1c82ef97e82d86532",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 986070,
+      "columns": 428032,
+      "nonzeros": 4708352
+    },
+    {
+      "path": "plato/L2CTA3D.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/L2CTA3D.mps.bz2",
+      "bytes": 166171424,
+      "sha256": "ec56d6664a83e366864f202f47bf9d4c81dd8272cf95eaf053a43f124b556a35",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 210001,
+      "columns": 10000000,
+      "nonzeros": 38007135
+    },
+    {
+      "path": "plato/Linf_520c.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/Linf_520c.bz2",
+      "bytes": 1978708,
+      "sha256": "76b2547af1e7b982a133c885ba92aa7b6405ae4b2e3fc8e682cbd048888cf819",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 93327,
+      "columns": 69004,
+      "nonzeros": 566195
+    },
+    {
+      "path": "plato/Primal2_1000.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/Primal2_1000.mps.bz2",
+      "bytes": 22669866,
+      "sha256": "56cb26f4aa65ac51904efa1e1086f6b6234c2e1345274731b5bdd37eea376578",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 1299381,
+      "columns": 2559380,
+      "nonzeros": 6148760
+    },
+    {
+      "path": "plato/a2864.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/a2864.mps.bz2",
+      "bytes": 53077915,
+      "sha256": "f97c2bbf584347f14a4ac6986c88475ea664fbd077aee99a5be9c35f21fad41a",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 22118,
+      "columns": 200787,
+      "nonzeros": 20279504
+    },
+    {
+      "path": "plato/bdry2.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/bdry2.bz2",
+      "bytes": 3075981,
+      "sha256": "f8a65391062e1f302b24ed8c52c85fbc032aef962b8889f5855490d0e3c82708",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 376501,
+      "columns": 250998,
+      "nonzeros": 1500004
+    },
+    {
+      "path": "plato/bharat.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/bharat.mps.bz2",
+      "bytes": 14032674,
+      "sha256": "3023e26f5e81a49a57b0c26958ee5555b20722bb4ca78c9a809f39d99ad7ec8b",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 1299954,
+      "columns": 590519,
+      "nonzeros": 3574229
+    },
+    {
+      "path": "plato/brazil3.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/brazil3.mps.bz2",
+      "bytes": 351217,
+      "sha256": "7d92b6b86cbcf24bd2109b6e45931e3a01e79accd3f429971abcb934f0479c7e",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 14647,
+      "columns": 23968,
+      "nonzeros": 133185
+    },
+    {
+      "path": "plato/chromaticindex1024-7.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/chromaticindex1024-7.mps.bz2",
+      "bytes": 1876242,
+      "sha256": "859ce3ee24403567c13176faf44ac3a9b6764c8fdd8c4e5817793b367bf9c275",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 67584,
+      "columns": 73728,
+      "nonzeros": 270328
+    },
+    {
+      "path": "plato/datt256_lp.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/datt256_lp.mps.bz2",
+      "bytes": 5055853,
+      "sha256": "a59e35370bcb02f1e6bff7af195bfb6e14ade24800f9ebf64862ac66b7776104",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 11078,
+      "columns": 262144,
+      "nonzeros": 1765876
+    },
+    {
+      "path": "plato/dlr1.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/dlr1.mps.bz2",
+      "bytes": 50083237,
+      "sha256": "0300780c3f3815fbf551d545c0a151a7bd9e31e24612abcc0a8ff19679124590",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 1735471,
+      "columns": 9142907,
+      "nonzeros": 18365108
+    },
+    {
+      "path": "plato/dlr2.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/dlr2.mps.bz2",
+      "bytes": 214722411,
+      "sha256": "69a97ee68bd79ded5f40a8d48d6c55dcb568e46865cbb2b83903d350b2bfd67b",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 7132927,
+      "columns": 38868107,
+      "nonzeros": 78091590
+    },
+    {
+      "path": "plato/ex10.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/ex10.mps.bz2",
+      "bytes": 4427438,
+      "sha256": "c6ef7ba5e1b4f57502993fcbbad4e9ba008c16e617c22562d1e08fb98406d89e",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 69609,
+      "columns": 17680,
+      "nonzeros": 1179680
+    },
+    {
+      "path": "plato/fctp/00README",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/fctp/00README",
+      "bytes": 135,
+      "sha256": "7ddd3b063b39e73bf0e2592bafa8b932be23a34b47451c9a33914a4ad3d9d99f",
+      "format": "bzip2-compressed MPS or MPC; see 00README"
+    },
+    {
+      "path": "plato/fctp/bal8x12.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/fctp/bal8x12.mps.bz2",
+      "bytes": 2286,
+      "sha256": "79305950ec023191990ed4788bfc197d532c47028db686b1f84e9813e431be58",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 117,
+      "columns": 192,
+      "nonzeros": 576
+    },
+    {
+      "path": "plato/fctp/bk4x3.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/fctp/bk4x3.mps.bz2",
+      "bytes": 470,
+      "sha256": "87a7ff2959d65b90947005d092ea221c88d9cb0d1fcc7a3316853bede4b15156",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 20,
+      "columns": 24,
+      "nonzeros": 72
+    },
+    {
+      "path": "plato/fctp/gr4x6.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/fctp/gr4x6.mps.bz2",
+      "bytes": 786,
+      "sha256": "32f0c22343317184ff9fc403273a35e6f174a45bc2be9a8240bdae8e43918787",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 35,
+      "columns": 48,
+      "nonzeros": 144
+    },
+    {
+      "path": "plato/fctp/n3700.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/fctp/n3700.mps.bz2",
+      "bytes": 113155,
+      "sha256": "7da9e80a75a57bb47a8d434ea57ec6df9b68b6fa1db4a9f70cbee3aee7c8f5b1",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 5151,
+      "columns": 10000,
+      "nonzeros": 30000
+    },
+    {
+      "path": "plato/fctp/n3701.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/fctp/n3701.mps.bz2",
+      "bytes": 113072,
+      "sha256": "5a94792cbd28b2d6729dabe605dd885ad5480afe56ba2fbb73d0009340030879",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 5151,
+      "columns": 10000,
+      "nonzeros": 30000
+    },
+    {
+      "path": "plato/fctp/n3702.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/fctp/n3702.mps.bz2",
+      "bytes": 113145,
+      "sha256": "a8cec2f2a3f54b587c07d99fe78ee436977359f0f65627645a9d2eacc009d265",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 5151,
+      "columns": 10000,
+      "nonzeros": 30000
+    },
+    {
+      "path": "plato/fctp/n3703.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/fctp/n3703.mps.bz2",
+      "bytes": 113296,
+      "sha256": "2ff7d882157ef628dc78c8dd2f0a706de3ec24a99da92d1e2b6e1655536bb8fc",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 5151,
+      "columns": 10000,
+      "nonzeros": 29999
+    },
+    {
+      "path": "plato/fctp/n3704.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/fctp/n3704.mps.bz2",
+      "bytes": 113805,
+      "sha256": "ab934ed697335e2106acd1cdc2464abe8b5fcb5b0237d1e878633c38f908ca60",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 5151,
+      "columns": 10000,
+      "nonzeros": 30000
+    },
+    {
+      "path": "plato/fctp/n3705.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/fctp/n3705.mps.bz2",
+      "bytes": 112954,
+      "sha256": "b0d3dc2cf46eab0767b4af0d366ef1c82dcd33afaf9591a36bf066de6f92ba84",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 5151,
+      "columns": 10000,
+      "nonzeros": 30000
+    },
+    {
+      "path": "plato/fctp/n3706.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/fctp/n3706.mps.bz2",
+      "bytes": 113199,
+      "sha256": "55891a14aefbe98d74d19916ab0d26a5706bc8b51e1a718bf8dfddab4f31ed56",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 5151,
+      "columns": 10000,
+      "nonzeros": 30000
+    },
+    {
+      "path": "plato/fctp/n3707.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/fctp/n3707.mps.bz2",
+      "bytes": 113160,
+      "sha256": "5cb3c986069b7cdedeaaeb1254e87dac6e6dd897926c40299cb0d168ddd13ac6",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 5151,
+      "columns": 10000,
+      "nonzeros": 30000
+    },
+    {
+      "path": "plato/fctp/n3708.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/fctp/n3708.mps.bz2",
+      "bytes": 113037,
+      "sha256": "8520ff2ff1d52bb86569b0f4be6c234a6502b0ad4773b07a717d9f72d5d6b559",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 5151,
+      "columns": 10000,
+      "nonzeros": 30000
+    },
+    {
+      "path": "plato/fctp/n3709.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/fctp/n3709.mps.bz2",
+      "bytes": 112934,
+      "sha256": "6d7ad1908f15eeabe81f28af872f2a5c1d25b56a5c30b13c16a64138ad951704",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 5151,
+      "columns": 10000,
+      "nonzeros": 30000
+    },
+    {
+      "path": "plato/fctp/n370a.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/fctp/n370a.mps.bz2",
+      "bytes": 113209,
+      "sha256": "25201efc835dcff2e8c5d9cf093f8b6b1ff2ea190313764ff704df3f1d6d8dab",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 5151,
+      "columns": 10000,
+      "nonzeros": 30000
+    },
+    {
+      "path": "plato/fctp/n370b.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/fctp/n370b.mps.bz2",
+      "bytes": 113394,
+      "sha256": "9d750d52cb22a96b776bb227d3cf888ac4fe6bcd521d98706cfa2dcbf35c61a3",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 5151,
+      "columns": 10000,
+      "nonzeros": 30000
+    },
+    {
+      "path": "plato/fctp/n370c.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/fctp/n370c.mps.bz2",
+      "bytes": 113304,
+      "sha256": "81aec2f4cc3263ecc7335fb188dbbd3517dba622dae1e46d8e219d9eba82945a",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 5151,
+      "columns": 10000,
+      "nonzeros": 30000
+    },
+    {
+      "path": "plato/fctp/n370d.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/fctp/n370d.mps.bz2",
+      "bytes": 113304,
+      "sha256": "81aec2f4cc3263ecc7335fb188dbbd3517dba622dae1e46d8e219d9eba82945a",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 5151,
+      "columns": 10000,
+      "nonzeros": 30000
+    },
+    {
+      "path": "plato/fctp/n370e.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/fctp/n370e.mps.bz2",
+      "bytes": 113458,
+      "sha256": "cd28f3b04dadd76d227e480dfee994ccda02656a7455522050160bb5a073334c",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 5151,
+      "columns": 10000,
+      "nonzeros": 30000
+    },
+    {
+      "path": "plato/fctp/ran10x10a.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/fctp/ran10x10a.mps.bz2",
+      "bytes": 2251,
+      "sha256": "813b43622fe48a5f2da8724d2d55dc5f8d79a77f4c02fd06bcc69c893786289d",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 121,
+      "columns": 200,
+      "nonzeros": 600
+    },
+    {
+      "path": "plato/fctp/ran10x10b.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/fctp/ran10x10b.mps.bz2",
+      "bytes": 2316,
+      "sha256": "cf62c428fc25dd88bcd966c012288490373fccc2192bf1e9e8f56df56a8cc061",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 121,
+      "columns": 200,
+      "nonzeros": 600
+    },
+    {
+      "path": "plato/fctp/ran10x10c.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/fctp/ran10x10c.mps.bz2",
+      "bytes": 2281,
+      "sha256": "9d829dcc0dd30b11c32f37cb21a80ea200663725fdc15e875ae49b7af653b526",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 121,
+      "columns": 200,
+      "nonzeros": 600
+    },
+    {
+      "path": "plato/fctp/ran10x12.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/fctp/ran10x12.mps.bz2",
+      "bytes": 2811,
+      "sha256": "745f961423ed40f3e4343cb0d8aea098a936443ed150d8c668a11126ed699dec",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 143,
+      "columns": 240,
+      "nonzeros": 720
+    },
+    {
+      "path": "plato/fctp/ran10x26.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/fctp/ran10x26.mps.bz2",
+      "bytes": 5763,
+      "sha256": "a9d5d20bc5036f7c1131d0aec3f93fe226b86e1901636297725985acaa2c2adc",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 297,
+      "columns": 520,
+      "nonzeros": 1560
+    },
+    {
+      "path": "plato/fctp/ran12x12.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/fctp/ran12x12.mps.bz2",
+      "bytes": 3327,
+      "sha256": "2de71f0fb9501dbeb11f79e6636544bc59f0d2811865a30aee42cc6a6e1449c6",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 169,
+      "columns": 288,
+      "nonzeros": 864
+    },
+    {
+      "path": "plato/fctp/ran12x21.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/fctp/ran12x21.mps.bz2",
+      "bytes": 5600,
+      "sha256": "d080db62ad431b76b6230b59490753cac82a4b10dae75dc3a898b22a006b356f",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 286,
+      "columns": 504,
+      "nonzeros": 1512
+    },
+    {
+      "path": "plato/fctp/ran13x13.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/fctp/ran13x13.mps.bz2",
+      "bytes": 3832,
+      "sha256": "d32ab8fe50903949be5ec8a0ea366f9f8ef37f7eeb867bbd56c7f39d2532721e",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 196,
+      "columns": 338,
+      "nonzeros": 1014
+    },
+    {
+      "path": "plato/fctp/ran14x18.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/fctp/ran14x18.mps.bz2",
+      "bytes": 5604,
+      "sha256": "6e4fc06d8e31edbd01dce6eb184dee982cd868b6abbd3cee095240e876a04669",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 285,
+      "columns": 504,
+      "nonzeros": 1512
+    },
+    {
+      "path": "plato/fctp/ran16x16.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/fctp/ran16x16.mps.bz2",
+      "bytes": 5665,
+      "sha256": "ef193f8685a32f8f41f809de0558a09e038c94cc18e6b2a23c900b7cdc6db7d8",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 289,
+      "columns": 512,
+      "nonzeros": 1536
+    },
+    {
+      "path": "plato/fctp/ran17x17.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/fctp/ran17x17.mps.bz2",
+      "bytes": 6209,
+      "sha256": "0a38a2870dc68d68d615891e955a617673c37e4b6409dc2c51518dc97add86fb",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 324,
+      "columns": 578,
+      "nonzeros": 1734
+    },
+    {
+      "path": "plato/fctp/ran4x64.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/fctp/ran4x64.mps.bz2",
+      "bytes": 5846,
+      "sha256": "f2145f2a000dc0e3b0400fea0dfb7546dd33e718c1045335c5fda24dff20efed",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 325,
+      "columns": 512,
+      "nonzeros": 1536
+    },
+    {
+      "path": "plato/fctp/ran6x43.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/fctp/ran6x43.mps.bz2",
+      "bytes": 5798,
+      "sha256": "8ea606a083b2f4e04fda31066f3a7f21622f9e18f7faf6c9319221239c877d7b",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 308,
+      "columns": 516,
+      "nonzeros": 1548
+    },
+    {
+      "path": "plato/fctp/ran8x32.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/fctp/ran8x32.mps.bz2",
+      "bytes": 5682,
+      "sha256": "82f5b49114fcbe83deef7084d1684158f61d7b8d226180ad2c135edeaa142a00",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 297,
+      "columns": 512,
+      "nonzeros": 1536
+    },
+    {
+      "path": "plato/fhnw-binschedule1.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/fhnw-binschedule1.mps.bz2",
+      "bytes": 33266390,
+      "sha256": "b9deea5bde2ca774d06557fae2b8fa3f389dd342465cfd55f86476dfa5565241",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 772873,
+      "columns": 1141653,
+      "nonzeros": 8611327
+    },
+    {
+      "path": "plato/fome/00README",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/fome/00README",
+      "bytes": 3340,
+      "sha256": "b0b062ebcd30b993238b46d32e8c09b8186e93206e474be2f571950f160bc33c",
+      "format": "bzip2-compressed MPS or MPC; see 00README"
+    },
+    {
+      "path": "plato/fome/fome11.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/fome/fome11.bz2",
+      "bytes": 317744,
+      "sha256": "fac1c417a7b71377318ec6ed2594949dd8d347b8843844e73d859358bdbd5a09",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 12143,
+      "columns": 24460,
+      "nonzeros": 83746
+    },
+    {
+      "path": "plato/fome/fome12.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/fome/fome12.bz2",
+      "bytes": 608186,
+      "sha256": "8ed7f524344c1bd3742f977e6aaea1c11b190b07a636d1cf26c4242e8dc08218",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 24285,
+      "columns": 48920,
+      "nonzeros": 167492
+    },
+    {
+      "path": "plato/fome/fome13.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/fome/fome13.bz2",
+      "bytes": 1175155,
+      "sha256": "a024471c4e229119c856d342fa472bc42ca1fe70f0938fd060928d48c21b41b6",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 48569,
+      "columns": 97840,
+      "nonzeros": 334984
+    },
+    {
+      "path": "plato/fome/fome21.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/fome/fome21.bz2",
+      "bytes": 1726788,
+      "sha256": "7351ec5e78741cbba60b0be0b763ab8581358d170bf399fa73ba249af67db574",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 67749,
+      "columns": 211456,
+      "nonzeros": 608306
+    },
+    {
+      "path": "plato/graph40-40.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/graph40-40.mps.bz2",
+      "bytes": 5678502,
+      "sha256": "879419be39f530996bea7711e16115c0d15057fcb3156599d81953cb6d5c6013",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 360901,
+      "columns": 102600,
+      "nonzeros": 1261200
+    },
+    {
+      "path": "plato/irish-electricity.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/irish-electricity.mps.bz2",
+      "bytes": 1650055,
+      "sha256": "1c1c117d1fda3922e5aaff5cadb14581522f1b8b5dc6741cddc318cf1d9ae875",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 104260,
+      "columns": 61728,
+      "nonzeros": 538809
+    },
+    {
+      "path": "plato/misc/00README",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/misc/00README",
+      "bytes": 3340,
+      "sha256": "b0b062ebcd30b993238b46d32e8c09b8186e93206e474be2f571950f160bc33c",
+      "format": "bzip2-compressed MPS or MPC; see 00README"
+    },
+    {
+      "path": "plato/misc/cont1.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/misc/cont1.bz2",
+      "bytes": 1358181,
+      "sha256": "c3443f67aefdead560caea30d5bd0d84607e5218716df05b0ab88f92cc595775",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 160793,
+      "columns": 40398,
+      "nonzeros": 399991
+    },
+    {
+      "path": "plato/misc/cont11.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/misc/cont11.bz2",
+      "bytes": 1380663,
+      "sha256": "62ec0dad1e26bf8a6be9a6d488d2e56c7ab0a191f27d81f1db338bf6cee71637",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 160793,
+      "columns": 80396,
+      "nonzeros": 439989
+    },
+    {
+      "path": "plato/misc/cont11_l.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/misc/cont11_l.bz2",
+      "bytes": 14304721,
+      "sha256": "01fecb4560452de3b8c2cfca68b57fbdc1dc291dcd2164911b69aaea2375402a",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 1468600,
+      "columns": 981396,
+      "nonzeros": 4893000
+    },
+    {
+      "path": "plato/misc/cont1_l.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/misc/cont1_l.bz2",
+      "bytes": 17036887,
+      "sha256": "49c08284fdcc24ce5cb7c65c2218764440c90696d0d8cb5fe03fb073c87bc14b",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 1918400,
+      "columns": 641598,
+      "nonzeros": 5752002
+    },
+    {
+      "path": "plato/misc/cont4.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/misc/cont4.bz2",
+      "bytes": 1350528,
+      "sha256": "3a90eae61756167ca744eb24379ea6fef9aef7b7ffa24db0ed3541f7045596b1",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 160793,
+      "columns": 40398,
+      "nonzeros": 398399
+    },
+    {
+      "path": "plato/misc/neos.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/misc/neos.bz2",
+      "bytes": 4346312,
+      "sha256": "2677d737bfb006257be6ba8c7e42d89d29b2e9d0616df0e40b7f64c98784e48d",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 479120,
+      "columns": 36786,
+      "nonzeros": 1084461
+    },
+    {
+      "path": "plato/misc/neos1.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/misc/neos1.bz2",
+      "bytes": 1108163,
+      "sha256": "b8312999d98de94eac00e9b426d4ade93eeae4ded14041f42a8c235e0d07dfcf",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 131582,
+      "columns": 1892,
+      "nonzeros": 468094
+    },
+    {
+      "path": "plato/misc/neos2.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/misc/neos2.bz2",
+      "bytes": 1279549,
+      "sha256": "d892147c6aa8542b514b86c3e8165c2be42990b7d91b850b0702c37f6bc961ec",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 132569,
+      "columns": 1560,
+      "nonzeros": 552596
+    },
+    {
+      "path": "plato/misc/neos3.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/misc/neos3.bz2",
+      "bytes": 3303132,
+      "sha256": "0177dc72e55a6380f10b7039b06bec2468631e8a62fd9237f2bcccf6ff8456d7",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 512210,
+      "columns": 6624,
+      "nonzeros": 1542960
+    },
+    {
+      "path": "plato/misc/ns1687037.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/misc/ns1687037.bz2",
+      "bytes": 2405674,
+      "sha256": "1fac59c3609eae26e40ec39291c401e8eb35d1862a247b26dbd7e96962efe3e4",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 50623,
+      "columns": 43749,
+      "nonzeros": 1430739
+    },
+    {
+      "path": "plato/misc/ns1688926.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/misc/ns1688926.bz2",
+      "bytes": 1598845,
+      "sha256": "66f20611968883930debd2eabcb0eece3d91c7e85d042705a107080e55a0cb0e",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 32769,
+      "columns": 16587,
+      "nonzeros": 1720522
+    },
+    {
+      "path": "plato/misc/sgpf5y6.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/misc/sgpf5y6.bz2",
+      "bytes": 2192752,
+      "sha256": "cdd8c81844f956a3d054a5130bd38a7874bbccdde8223f76ffd6a997a4f2aa1d",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 246078,
+      "columns": 308634,
+      "nonzeros": 902275
+    },
+    {
+      "path": "plato/misc/spal_004.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/misc/spal_004.bz2",
+      "bytes": 95344367,
+      "sha256": "46e278f59731adb6dbe68b04c09a8ad6da8e650f12fd3459a925ff7140231908",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 10204,
+      "columns": 321696,
+      "nonzeros": 46172220
+    },
+    {
+      "path": "plato/misc/stormG2_1000.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/misc/stormG2_1000.bz2",
+      "bytes": 9091333,
+      "sha256": "7ead9ccb1fbcb45e0c86a907ddecfbed26f6c774f5f63e513af83bfdcd34b2ed",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 528186,
+      "columns": 1259121,
+      "nonzeros": 4228817
+    },
+    {
+      "path": "plato/misc/watson_1.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/misc/watson_1.bz2",
+      "bytes": 4534694,
+      "sha256": "e42ee11b27a861a47fb7a4d96231c8cf990fae53c5a83fcc7ca371ef554b86d1",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 201156,
+      "columns": 383927,
+      "nonzeros": 1053564
+    },
+    {
+      "path": "plato/misc/watson_2.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/misc/watson_2.bz2",
+      "bytes": 7445014,
+      "sha256": "d92369a52b361ffa773749fcc49423ee792a7f823eb35bfe57a9009e6fc03cf2",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 352014,
+      "columns": 671861,
+      "nonzeros": 1843716
+    },
+    {
+      "path": "plato/neos-3025225.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/neos-3025225.mps.bz2",
+      "bytes": 12097366,
+      "sha256": "d60255ee6b76071ab12002775ca33245d0098dcbfcbef94b187f56d9fb5065bd",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 91573,
+      "columns": 69846,
+      "nonzeros": 9357952
+    },
+    {
+      "path": "plato/neos-5052403-cygnet.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/neos-5052403-cygnet.mps.bz2",
+      "bytes": 8770659,
+      "sha256": "171d51bad7a0f457f92fdda864d0f3a9b9a52d3c5a7fec89a6e205ca2f742866",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 38269,
+      "columns": 32868,
+      "nonzeros": 4931172
+    },
+    {
+      "path": "plato/neos-5251015.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/neos-5251015.mps.bz2",
+      "bytes": 7057355,
+      "sha256": "ee63abe9d2859e7f5692b53c7991403d790ea6dca137a299891ffc510b3ad68c",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 486532,
+      "columns": 136971,
+      "nonzeros": 1955389
+    },
+    {
+      "path": "plato/network/16_n14.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/network/16_n14.mps.bz2",
+      "bytes": 3571248,
+      "sha256": "f8b671793bba815da8d6bb0f919e9a76a73c35644d252aff40dee05c39aa7f49",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 16385,
+      "columns": 262144,
+      "nonzeros": 774205
+    },
+    {
+      "path": "plato/network/i_n13.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/network/i_n13.mps.bz2",
+      "bytes": 9518030,
+      "sha256": "a36260a09f03b328d183e502728b27e6d8260ecb9e4bf81f669488dc2c061d6f",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 8193,
+      "columns": 741455,
+      "nonzeros": 2204486
+    },
+    {
+      "path": "plato/network/lo10.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/network/lo10.mps.bz2",
+      "bytes": 6253221,
+      "sha256": "74c562936b6b7a05a6d4bbfc4dabf48dca3a22f02edbf6270a5aa1b591323a23",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 46342,
+      "columns": 406225,
+      "nonzeros": 1218586
+    },
+    {
+      "path": "plato/network/long15.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/network/long15.mps.bz2",
+      "bytes": 13621896,
+      "sha256": "1763058ec839300fae534d58f76f4fb20b89034816b4bf3943aade47426944f4",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 32770,
+      "columns": 753687,
+      "nonzeros": 2260961
+    },
+    {
+      "path": "plato/network/netlarge1.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/network/netlarge1.mps.bz2",
+      "bytes": 93840964,
+      "sha256": "e7d1ade8ce3f03456ce004f7a32f1eccc9b8815c8d70a09bdbddbf9231ccfbb9",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 47701,
+      "columns": 8001358,
+      "nonzeros": 24004074
+    },
+    {
+      "path": "plato/network/netlarge2.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/network/netlarge2.mps.bz2",
+      "bytes": 17445080,
+      "sha256": "8c054df97b5b7ffbf4f26f35dff45620c3b070f8f2d9570819972ac942260710",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 40001,
+      "columns": 1160000,
+      "nonzeros": 3480000
+    },
+    {
+      "path": "plato/network/netlarge3.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/network/netlarge3.mps.bz2",
+      "bytes": 75023522,
+      "sha256": "181fd34e44b38a899c12a495e1441ceb0653bb74153725fa27558d40d7de5e88",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 40001,
+      "columns": 4676000,
+      "nonzeros": 14028000
+    },
+    {
+      "path": "plato/network/netlarge6.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/network/netlarge6.mps.bz2",
+      "bytes": 171662784,
+      "sha256": "662c94ef48707d36d885bb548b9fb3a96e1a2a4064f896ae1542009e815d30e3",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 8001,
+      "columns": 15000000,
+      "nonzeros": 45000000
+    },
+    {
+      "path": "plato/network/square15.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/network/square15.mps.bz2",
+      "bytes": 13607672,
+      "sha256": "e63c179d3d0d59cfd42b546ee644ecba26dce1f0f89dccc391568c7dd3cd5f54",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 32763,
+      "columns": 753526,
+      "nonzeros": 2260477
+    },
+    {
+      "path": "plato/network/wide15.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/network/wide15.mps.bz2",
+      "bytes": 13621896,
+      "sha256": "1763058ec839300fae534d58f76f4fb20b89034816b4bf3943aade47426944f4",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 32770,
+      "columns": 753687,
+      "nonzeros": 2260961
+    },
+    {
+      "path": "plato/nug/00README",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/nug/00README",
+      "bytes": 3340,
+      "sha256": "b0b062ebcd30b993238b46d32e8c09b8186e93206e474be2f571950f160bc33c",
+      "format": "bzip2-compressed MPS or MPC; see 00README"
+    },
+    {
+      "path": "plato/nug/nug08-3rd.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/nug/nug08-3rd.bz2",
+      "bytes": 333107,
+      "sha256": "1dadc68c4b9f57f95e0bb450fb2d495c0cd9a53a591764b99b03c0a6d37e7df0",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 19729,
+      "columns": 20448,
+      "nonzeros": 158496
+    },
+    {
+      "path": "plato/nug/nug20.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/nug/nug20.bz2",
+      "bytes": 687731,
+      "sha256": "124a1ea609b8b4ef692733470eac386454a332e211115680e21b873c6235e4da",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 15241,
+      "columns": 72600,
+      "nonzeros": 358380
+    },
+    {
+      "path": "plato/nug/nug30.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/nug/nug30.bz2",
+      "bytes": 3446758,
+      "sha256": "1bed0e56844920c278f266e825abf03cd08d01cccd01dc768e731ffbf9501030",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 52261,
+      "columns": 379350,
+      "nonzeros": 1822710
+    },
+    {
+      "path": "plato/pds/00README",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/pds/00README",
+      "bytes": 3340,
+      "sha256": "b0b062ebcd30b993238b46d32e8c09b8186e93206e474be2f571950f160bc33c",
+      "format": "bzip2-compressed MPS or MPC; see 00README"
+    },
+    {
+      "path": "plato/pds/pds-100.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/pds/pds-100.bz2",
+      "bytes": 4566703,
+      "sha256": "15075babe6a96d6a68ecf66801ff107f7d222246b0c4396aa80a18451febd474",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 156244,
+      "columns": 505360,
+      "nonzeros": 1390539
+    },
+    {
+      "path": "plato/pds/pds-20.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/pds/pds-20.bz2",
+      "bytes": 868508,
+      "sha256": "18ecafdedd4f184e65a1cfa67c4027e6fd82d0f574cfba1a32e2482678f5192c",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 33875,
+      "columns": 105728,
+      "nonzeros": 304153
+    },
+    {
+      "path": "plato/pds/pds-30.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/pds/pds-30.bz2",
+      "bytes": 1332573,
+      "sha256": "9cd55024e004590e96f663a619525bcd5a287157d991ccddbe34af9afbcc24ad",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 49945,
+      "columns": 154998,
+      "nonzeros": 442876
+    },
+    {
+      "path": "plato/pds/pds-40.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/pds/pds-40.bz2",
+      "bytes": 1909312,
+      "sha256": "9f8a7e44003404c75143fbe9333fd5895a155b29e6bcb46972aaec60d6327cfd",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 66845,
+      "columns": 212859,
+      "nonzeros": 605678
+    },
+    {
+      "path": "plato/pds/pds-50.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/pds/pds-50.bz2",
+      "bytes": 2418345,
+      "sha256": "94dd82831ee2730917cf589caaedf508f746add2e9361245f28a9f4360bf0005",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 83061,
+      "columns": 270095,
+      "nonzeros": 764161
+    },
+    {
+      "path": "plato/pds/pds-60.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/pds/pds-60.bz2",
+      "bytes": 2889951,
+      "sha256": "dc985a2e67e321b9836f7077bb44baf3d7452885bf7e2dda361ed160b43a44b1",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 99432,
+      "columns": 329643,
+      "nonzeros": 928368
+    },
+    {
+      "path": "plato/pds/pds-70.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/pds/pds-70.bz2",
+      "bytes": 3384069,
+      "sha256": "0b4ccbe39b5632205b536338df8c0b5e68e9b17d1b0cf7e0f4fde1fd45c7554a",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 114945,
+      "columns": 382311,
+      "nonzeros": 1071390
+    },
+    {
+      "path": "plato/pds/pds-80.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/pds/pds-80.bz2",
+      "bytes": 3784726,
+      "sha256": "328fa6d12c2665140bf5052d2365bf3b2a7b417811c37e216ff2421e26f45d5e",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 129182,
+      "columns": 426278,
+      "nonzeros": 1187165
+    },
+    {
+      "path": "plato/pds/pds-90.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/pds/pds-90.bz2",
+      "bytes": 4187238,
+      "sha256": "5bed53cfaf92333812026b7e2d13958f997bf5ffa052fe5ddf2fd4d90e7e25a9",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 142824,
+      "columns": 466671,
+      "nonzeros": 1291579
+    },
+    {
+      "path": "plato/physiciansched3-3.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/physiciansched3-3.mps.bz2",
+      "bytes": 3718886,
+      "sha256": "85b6ea50bd53385e397bb4a137b2f38af081f90226837b6d4936f189908cf481",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 266228,
+      "columns": 79555,
+      "nonzeros": 1062480
+    },
+    {
+      "path": "plato/qap15.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/qap15.mps.bz2",
+      "bytes": 282733,
+      "sha256": "edc084e9e3d8ccc5dd25f30c6593e6dbb00cba86c5e664c471d1de37ae28b68a",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 6331,
+      "columns": 22275,
+      "nonzeros": 110700
+    },
+    {
+      "path": "plato/rail/00README",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/rail/00README",
+      "bytes": 3340,
+      "sha256": "b0b062ebcd30b993238b46d32e8c09b8186e93206e474be2f571950f160bc33c",
+      "format": "bzip2-compressed MPS or MPC; see 00README"
+    },
+    {
+      "path": "plato/rail/rail2586.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/rail/rail2586.bz2",
+      "bytes": 5854372,
+      "sha256": "a91a9c3f3fb92fa3a26601b62b42e067402362178c2e624543319fd704f17904",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 2587,
+      "columns": 920683,
+      "nonzeros": 8929459
+    },
+    {
+      "path": "plato/rail/rail4284.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/rail/rail4284.bz2",
+      "bytes": 8384295,
+      "sha256": "e214e677828de645a7950ce3e543fe3e51bd1a6fe011f0be51b2e34e8e199011",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 4285,
+      "columns": 1092610,
+      "nonzeros": 12372358
+    },
+    {
+      "path": "plato/rail/rail507.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/rail/rail507.bz2",
+      "bytes": 367694,
+      "sha256": "2cd8ac52777a8a5915417aa1f2b35bc13f3f83f9a97f097c3849613f7c432045",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 508,
+      "columns": 63009,
+      "nonzeros": 472358
+    },
+    {
+      "path": "plato/rail/rail516.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/rail/rail516.bz2",
+      "bytes": 291799,
+      "sha256": "11695ec4ca766d2c9b269a04b01129326f74a0176433a4bb87ab0a26b148b3a7",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 517,
+      "columns": 47311,
+      "nonzeros": 362207
+    },
+    {
+      "path": "plato/rail/rail582.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/rail/rail582.bz2",
+      "bytes": 336719,
+      "sha256": "a354c3b76ee608ee11b183d2fc2c92b5df1303ee93f9454c742f8c615e26a99c",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 583,
+      "columns": 55515,
+      "nonzeros": 457223
+    },
+    {
+      "path": "plato/rmine15.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/rmine15.mps.bz2",
+      "bytes": 3267065,
+      "sha256": "8b9a80f802bf5ed0c4fa2cc7a62823e5786fcfbf82fbc76dfeb24a543b150e66",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 358396,
+      "columns": 42438,
+      "nonzeros": 922170
+    },
+    {
+      "path": "plato/s100.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/s100.mps.bz2",
+      "bytes": 6741947,
+      "sha256": "2d151aa3e2e6ffba47341066e9fc24044df411457cd1d54ccdaa4cf84d7c2256",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 14734,
+      "columns": 364417,
+      "nonzeros": 2127672
+    },
+    {
+      "path": "plato/s250r10.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/s250r10.mps.bz2",
+      "bytes": 4808615,
+      "sha256": "bd438ccbc61061f5cb9ad8cdad17f8ba0481d98e81f292bacf8a9df5ff3beb2d",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 10963,
+      "columns": 273142,
+      "nonzeros": 1572104
+    },
+    {
+      "path": "plato/s82.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/s82.mps.bz2",
+      "bytes": 28692817,
+      "sha256": "ca2c10524c3729aef216d441426a59448e921b1c78431a88dc22f77167259f11",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 87879,
+      "columns": 1690631,
+      "nonzeros": 8106550
+    },
+    {
+      "path": "plato/savsched1.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/savsched1.mps.bz2",
+      "bytes": 6612196,
+      "sha256": "19547524cb3c23957ab93dd256d62d692a3a27164cacbdd3fa9c17493cc0a938",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 295990,
+      "columns": 328575,
+      "nonzeros": 1846351
+    },
+    {
+      "path": "plato/scpm1.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/scpm1.mps.bz2",
+      "bytes": 23188090,
+      "sha256": "b3f8a1f8b8197938e0c035adf90407af4ed72b9df488bd93ced35eae62c13306",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 5001,
+      "columns": 500000,
+      "nonzeros": 6750000
+    },
+    {
+      "path": "plato/set-cover-model.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/set-cover-model.mps.bz2",
+      "bytes": 73534965,
+      "sha256": "23b037e8cb9e02892aae0927afdf01c961396eddb7b9bca62d5c512a79a57217",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 10001,
+      "columns": 1102008,
+      "nonzeros": 21544276
+    },
+    {
+      "path": "plato/square41.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/square41.mps.bz2",
+      "bytes": 19023228,
+      "sha256": "c48443ebead4490b917c85831fd240e88d79481c440a3ceda3246aa6f7596b24",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 40161,
+      "columns": 62234,
+      "nonzeros": 13628623
+    },
+    {
+      "path": "plato/supportcase10.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/supportcase10.mps.bz2",
+      "bytes": 2038347,
+      "sha256": "7ae9279ef7d66fec1a60be7ccf5831a0f1dbad66831d4a510e7807e293ca2bf7",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 165685,
+      "columns": 14770,
+      "nonzeros": 555152
+    },
+    {
+      "path": "plato/supportcase19.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/supportcase19.mps.bz2",
+      "bytes": 17289581,
+      "sha256": "47df5e7ccec951318b993ea63e5e2246d05dd64a13f4f0859b1ac6191a1febf5",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 10714,
+      "columns": 1429098,
+      "nonzeros": 5716085
+    },
+    {
+      "path": "plato/thk_48.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/thk_48.mps.bz2",
+      "bytes": 114690420,
+      "sha256": "4aef2f3a71ebca093cf947ff8751e2fb99f5386ca91e49876d0352cd4cfcf27f",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 6366378,
+      "columns": 8609262,
+      "nonzeros": 31072218
+    },
+    {
+      "path": "plato/thk_63.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/thk_63.mps.bz2",
+      "bytes": 96167706,
+      "sha256": "31ba2f0d0a26c132ef55cc5e180905054da4cb1fd490d3c8f3b194143edc8a4e",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 5694388,
+      "columns": 7701112,
+      "nonzeros": 24498494
+    },
+    {
+      "path": "plato/tpl-tub-ws1617.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/tpl-tub-ws1617.mps.bz2",
+      "bytes": 31197715,
+      "sha256": "192e9c9063ddc09d6c9b55e6e8098d3f85ff107ed74acbda8aae30b704b955ca",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 1154616,
+      "columns": 747601,
+      "nonzeros": 5234837
+    },
+    {
+      "path": "plato/woodlands09.mps.bz2",
+      "source_url": "https://plato.asu.edu/ftp/lptestset/woodlands09.mps.bz2",
+      "bytes": 7064631,
+      "sha256": "1efccdbe21a7a4be25d02eee18f57ce98ee5c6abf460e49e4f59127348726fa5",
+      "format": "bzip2-compressed MPS or MPC; see 00README",
+      "rows": 194600,
+      "columns": 382147,
+      "nonzeros": 2646004
+    }
+  ],
+  "matrix_dimensions": "MPS ROWS-section rows include N (objective/free) rows; columns are COLUMNS-section variables; nonzeros count nonzero COLUMNS-section coefficient entries, including objective rows but excluding RHS and bounds. This matches the existing Netlib manifest convention."
+}

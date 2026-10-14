@@ -1,0 +1,14 @@
+__pycache__/
+*.part
+.DS_Store
+/netlib/mps/
+/miplib2017/benchmark.zip
+/miplib2017/instances/
+/miplib2017/mps/
+/mittelmann-lpopt/plato/
+/mittelmann-lpopt/mps/
+/mittelmann-lpopt/lpopt.html
+/mittelmann-lpopt-readme.txt
+/mittelmann-lpopt/fetch_plato.py
+/netlib-simplex-probes/*-0/
+/nmm*/mps/
